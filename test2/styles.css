@@ -1,0 +1,13 @@
+<style>
+  body{border-style:dotted;border-color:red;}
+  ul{border-style:dashed;border-color:yellow;border-width:15px;
+padding:5px;width:30%;}
+li{padding-left:10px;border-style:dotted;border-color:green;border-width:3px}
+a{position:relative;left:40px;border-style:dotted;}
+canvas{border-style:dashed;
+border-color:red;border-width:5px;padding:10px;
+}
+button {border-style:dotted;border-color:green;border-width:5px;
+position:relative;left:100px;}
+
+</style>
